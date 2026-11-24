@@ -1,0 +1,11 @@
+site_name: Choose your workshop
+site_description: Find a hands-on workshop that matches what you want to learn with GitHub Copilot.
+site_url: https://codess-aus.github.io/Choose-your-workshop/
+theme:
+  name: null
+  custom_dir: theme
+nav:
+  - Choose your workshop: index.md
+plugins: []
+extra_css:
+  - stylesheets/workshops.css
